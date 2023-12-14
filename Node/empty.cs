@@ -4,7 +4,7 @@
 using _BINDINGS_NAMESPACE_;
 using System;
 
-using namespace Project;
+namespace Project;
 
 public partial class _CLASS_ : _BASE_ {
 _TS_
